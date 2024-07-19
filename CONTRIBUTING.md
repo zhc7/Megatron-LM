@@ -2,7 +2,7 @@
 
 This document outlines the processes and policies for issues and pull requests by non-NVIDIA contributors to the Megatron-LM github repository.
 
-Everyone is welcome to contribute to the project but development of Megatron-LM continues internally at NVIDIA. When contributing it important to ensure that changes are in line with the project direction. Small changes to fix bugs are welcomed and appreciated. If proposing large architectural changes or changes for stylistic reasons open an issue first so we can discuss it.
+Everyone is welcome to contribute to the project but development of Megatron-LM continues internally at NVIDIA. When contributing, it is important to ensure that changes are in line with the project direction. Small changes to fix bugs are welcomed and appreciated. If proposing large architectural changes or changes for stylistic reasons open an issue first so we can discuss it.
 
 PRs will first be pulled into NVIDIA's internal Megatron-LM repo and then pushed back out to the open github repo with proper credit given to the committers.
 
